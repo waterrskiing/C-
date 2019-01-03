@@ -1,0 +1,11 @@
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\bin\Debug\netcoreapp2.1\InheritanceCS89.deps.json
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\bin\Debug\netcoreapp2.1\InheritanceCS89.runtimeconfig.json
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\bin\Debug\netcoreapp2.1\InheritanceCS89.runtimeconfig.dev.json
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\bin\Debug\netcoreapp2.1\InheritanceCS89.dll
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\bin\Debug\netcoreapp2.1\InheritanceCS89.pdb
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\obj\Debug\netcoreapp2.1\InheritanceCS89.csprojAssemblyReference.cache
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\obj\Debug\netcoreapp2.1\InheritanceCS89.csproj.CoreCompileInputs.cache
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\obj\Debug\netcoreapp2.1\InheritanceCS89.AssemblyInfoInputs.cache
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\obj\Debug\netcoreapp2.1\InheritanceCS89.AssemblyInfo.cs
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\obj\Debug\netcoreapp2.1\InheritanceCS89.dll
+c:\users\giang\source\repos\InheritanceCS89\InheritanceCS89\obj\Debug\netcoreapp2.1\InheritanceCS89.pdb

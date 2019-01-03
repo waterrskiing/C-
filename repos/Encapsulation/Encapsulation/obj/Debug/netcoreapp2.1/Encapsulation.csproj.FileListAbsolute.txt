@@ -1,0 +1,11 @@
+c:\users\giang\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.deps.json
+c:\users\giang\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.runtimeconfig.json
+c:\users\giang\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.runtimeconfig.dev.json
+c:\users\giang\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.dll
+c:\users\giang\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.1\Encapsulation.pdb
+c:\users\giang\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.csprojAssemblyReference.cache
+c:\users\giang\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.csproj.CoreCompileInputs.cache
+c:\users\giang\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.AssemblyInfoInputs.cache
+c:\users\giang\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.AssemblyInfo.cs
+c:\users\giang\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.dll
+c:\users\giang\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.1\Encapsulation.pdb
